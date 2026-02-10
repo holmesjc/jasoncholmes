@@ -50,7 +50,8 @@ Strong outcomes come from:
 
 ## Contact
 
-**Email:** jason@k2j2.net
+- **Email:** contact@jasoncholmes.com  
+- **LinkedIn:** https://www.linkedin.com/in/jcholmes/
 
 ---
 
