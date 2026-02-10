@@ -1,6 +1,6 @@
 # Jason C. Holmes
 
-### Technology Strategy & Operations Leader
+### Senior Business Operations Executive | Telecommunications, Broadcast & Media
 
 ---
 
