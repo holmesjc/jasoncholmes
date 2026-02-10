@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the repo/project name header ("jasoncholmes") */
+.page-header { 
+  display: none !important; 
+}
+
+/* Light polish: better spacing and readability */
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 1.5rem;
+  line-height: 1.6;
+}
+
+.main-content h1, .main-content h2 {
+  margin-top: 1.5rem;
+}
+
+.main-content hr {
+  margin: 1.75rem 0;
+}
