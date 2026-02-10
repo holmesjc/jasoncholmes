@@ -6,11 +6,11 @@
 
 ## About
 
-I’m a senior technology and operations leader with deep experience guiding complex organizations through transformation, scale, and regulatory change.
+I’m a senior-level business operations executive with deep expertise in the telecommunications industry, particularly within broadcast and media environments.
 
-My career spans telecommunications, media, and large-scale technology operations, where I’ve led cross-functional teams, built new organizations from the ground up, and translated regulatory, technical, and operational complexity into clear execution.
+My experience spans leading production and operational organizations, driving business transformation, delivering cost reductions, and streamlining processes through strong cross-functional collaboration. I’m known for bringing structure and clarity to complex operational challenges while maintaining a focus on execution and results.
 
-This site represents my personal professional perspective and experience.
+I’m passionate about developing talent, building high-performing teams, and delivering meaningful solutions that enable organizations to achieve sustained success.
 
 ---
 
