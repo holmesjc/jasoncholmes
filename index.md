@@ -1,3 +1,8 @@
+<img src="assets/images/Holmes_3_Alpha__sq.png"
+     alt="Jason C. Holmes"
+     width="160"
+     style="float:right; margin-left:20px; border-radius:4px;" />
+     
 # Jason C. Holmes
 
 ### Senior Business Operations Executive | Telecommunications, Broadcast & Media
